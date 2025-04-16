@@ -14,15 +14,6 @@ This project uses **MATLAB** and image processing techniques to detect and segme
 
 ---
 
-## 🖼 Sample Output
-
-| Original Leaf | a* and b* Channels | Segmented Disease |
-|---------------|--------------------|-------------------|
-| ![original](samples/original.jpg) | ![channels](samples/channels.png) | ![segmented](samples/segmented.png) |
-
-> 🔍 *Note: Add your own sample images inside a `samples/` folder in the repo.*
-
----
 
 ## 🧪 How It Works
 
