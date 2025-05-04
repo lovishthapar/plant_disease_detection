@@ -37,7 +37,9 @@ This project uses **MATLAB** and image processing techniques to detect and segme
 - Image Processing Toolbox
 
 ---
-
+<p align="center">
+  <img src="working.png" alt="vaccum cleaning bot">
+</p>
 ## 🚀 How to Run
 
 1. Clone this repository:
